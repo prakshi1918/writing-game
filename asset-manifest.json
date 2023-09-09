@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/writing-game/static/css/main.9240bbdd.css",
+    "main.js": "/writing-game/static/js/main.895452c0.js",
+    "index.html": "/writing-game/index.html",
+    "static/media/heart.svg": "/writing-game/static/media/heart.3d3915a21bdababd16379712f76d734c.svg",
+    "static/media/heart-empty.svg": "/writing-game/static/media/heart-empty.476e27b631565ce208f154b72f34c92e.svg",
+    "main.9240bbdd.css.map": "/writing-game/static/css/main.9240bbdd.css.map",
+    "main.895452c0.js.map": "/writing-game/static/js/main.895452c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9240bbdd.css",
+    "static/js/main.895452c0.js"
+  ]
+}
